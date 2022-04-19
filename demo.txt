@@ -1,1 +1,2 @@
 This is my first git project
+Now adding more data to project.
